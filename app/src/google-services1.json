@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519534082688",
+    "project_id": "ichat-8426d",
+    "storage_bucket": "ichat-8426d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519534082688:android:ccdd63a4ff21e19af34465",
+        "android_client_info": {
+          "package_name": "com.example.ichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519534082688-me8rd6naam9sq72it6ou11nik77lbksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrycXlndHomCkmgP-ZLBjKVnEJqJVmNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519534082688-me8rd6naam9sq72it6ou11nik77lbksl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
