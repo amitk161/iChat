@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/grayBackground"
+    android:background="@color/newbg"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".SignUpActivity">
@@ -125,6 +125,7 @@
             android:layout_marginTop="15dp"
             android:text="Sign Up with Phone"
             android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
             android:textSize="18sp" />
 
     </LinearLayout>
