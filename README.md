@@ -1,6 +1,6 @@
 # iChat
 
-**iChat is an Android based chattinh application which allows you to chat with anyone around the world.**
+**iChat is an Android based chatting application which allows you to chat with anyone around the world.**
 
 **The application internally uses Google Firebase to authenticate into the app, realtime database management, provide storage for photos, etc.
 The firebase database acts as a realtime database and provides a backend service to the app by storing the login details, messages, photos, etc.**
