@@ -5,14 +5,14 @@
 **The application internally uses Google Firebase to authenticate into the app, realtime database management, provide storage for photos, etc.
 The firebase database acts as a realtime database and provides a backend service to the app by storing the login details, messages, photos, etc.**
 
-**Top features of the app includes 
+Top features of the app includes 
 1. Multiple signup/login options including Google, Facebook, Email Address and Phone Number.
 2. One to One chat with anyone around the world.
 3. Group chat with friends.
 4. Setting up a display picture.
 5. Changing user name and status.
 6. Delete any message. 
-7. Exciting fresh layout**
+7. Exciting fresh layout
 
 **Stay Tuned for exciting new features in the upcoming future updates.**
 
